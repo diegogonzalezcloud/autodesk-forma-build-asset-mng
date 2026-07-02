@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Forma Asset Manager</title>
+  <link rel="stylesheet" href="/css/app.css" />
+</head>
+<body>
+  <div id="app">
+    <aside id="sidebar">
+      <div class="sidebar-header">
+        <span class="logo">&#9670;</span>
+        <span class="app-name">Forma Asset Manager</span>
+      </div>
+      <nav id="nav"></nav>
+    </aside>
+
+    <div id="main-wrap">
+      <header id="topbar">
+        <div id="topbar-left"></div>
+        <div id="topbar-right">
+          <div id="auth-status"></div>
+        </div>
+      </header>
+      <main id="content">
+        <div class="loading-screen">
+          <div class="spinner"></div>
+        </div>
+      </main>
+    </div>
+  </div>
+
+  <div id="toast-container"></div>
+
+  <script type="module" src="/js/app.js"></script>
+</body>
+</html>
