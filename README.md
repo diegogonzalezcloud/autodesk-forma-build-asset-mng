@@ -11,6 +11,14 @@ Built with Node.js + Express backend and vanilla JS frontend. Runs entirely on y
 
 ---
 
+## Video Tutorial
+
+[![Watch the video](https://img.youtube.com/vi/tyOhEaYZe88/maxresdefault.jpg)](https://www.youtube.com/watch?v=tyOhEaYZe88)
+
+> Click the image above to watch the full tutorial on YouTube.
+
+---
+
 ## Prerequisites
 
 - **Node.js 18+** — uses the built-in `fetch` API
