@@ -13,7 +13,7 @@ Built with Node.js + Express backend and vanilla JS frontend. Runs entirely on y
 
 ## Video Tutorial
 
-[![Watch the video](https://img.youtube.com/vi/tyOhEaYZe88/maxresdefault.jpg)](https://www.youtube.com/watch?v=tyOhEaYZe88)
+[![Watch the video](https://img.youtube.com/vi/DGxgKPG17cY/maxresdefault.jpg)](https://www.youtube.com/watch?v=DGxgKPG17cY)
 
 > Click the image above to watch the full tutorial on YouTube.
 
